@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="0701_课设_高校人员信息管理系统:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/0701___jar</output-path>
+    <root id="archive" name="0701_课设_高校人员信息管理系统.jar">
+      <element id="module-output" name="0701_课设_高校人员信息管理系统" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JDBC/resources/mysql-connector-java-5.1.44-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../BaiduNetdiskDownload/swing meihua.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
